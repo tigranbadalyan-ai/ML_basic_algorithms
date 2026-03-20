@@ -38,7 +38,7 @@ Instead of just importing libraries, I am deconstructing classical algorithms to
 
 ## 🛠 Tech Stack
 * **Language:** Python
-* **Math Power:** NumPy & SymPy
+* **Math Power:** NumPy & Pandas
 * **Analysis:** Scikit-Learn (for validation)
 * **Environment:** Jupyter Notebooks
 
